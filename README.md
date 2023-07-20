@@ -1,5 +1,5 @@
 <h1> 👋 Hi, I’m George Vazquez</h1>
-<p>I'm Software Engineer with a background in graphic design and game development.</p>
+<p>I'm a software engineer with a background in graphic design and game development.</p>
 <p>My team and I recently created Zukeeper, developer tools for the Zustand state management library. Check it out!</p>
 https://www.zukeeper-tools.com/
 
