@@ -26,6 +26,10 @@ https://www.zukeeper-tools.com/
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" width="50" alt="react">
         <p>React</p>
       </td>
+      <td align="center" valign="bottom" width="120">
+        <img src="https://mui.com/static/logo.png" width="50" alt="MUI">
+        <p>MUI</p>
+      </td>
 <!--       <td align="center" valign="bottom" width="120">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" width="50" alt="react native">
         <p>React Native</p>
